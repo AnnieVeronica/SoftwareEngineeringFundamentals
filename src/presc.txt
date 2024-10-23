@@ -1,0 +1,11 @@
+Prescription ID: 1
+Name: John Doe
+Address: 123 Main St
+Sphere: 1.5
+Axis: 90.0
+Cylinder: -0.5
+Examination Date: Wed Oct 23 13:26:42 IST 2024
+Optometrist: Dr. Smith
+
+Prescription{firstName='John', lastName='Smith', address='1234 Maple Street, Dallas, TX 75001, USA', sphere=0.0, cylinder=-2.0, axis=90, examDate='12/10/22', optometrist='Dr. Anderson'}
+Prescription{firstName='John', lastName='Smith', address='1234 Maple Street, Dallas, TX 75001, USA', sphere=0.0, cylinder=-2.0, axis=90, examDate='12/10/22', optometrist='Dr. Anderson'}
